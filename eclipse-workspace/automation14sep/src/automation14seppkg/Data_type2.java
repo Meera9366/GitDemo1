@@ -23,7 +23,9 @@ public class Data_type2 {
 		float f1 = 380.5f;
 		float f2 = 568;
 		float f3 = 678786986.567669f;
+		float f5=0;
 		System.out.println("Value of Float Data Type F1-------->>" + f1);
+		System.out.println("Value of Float Data Type F1-------->>" + f5);
 		System.out.println("Value of Float Data Type F2--------->>" + f2);
 		System.out.println("Value of Float Data Type F3--------->>" + f3);
 		System.out.println("********************************************************************************" );System.out.println("********************************************************************************" );
